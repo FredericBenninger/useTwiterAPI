@@ -1,5 +1,6 @@
 # useTwiterAPI
-Searches a Twitter stream for tweets containing the string “Ian G. Harris”
+**sendTweet.py** Send Hello world
+**serachString.py** Search into a Twitter stream for tweets containing the string “Ian G. Harris”
 
 Installation
 -----------
